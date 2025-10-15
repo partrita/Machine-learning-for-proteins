@@ -1,14 +1,14 @@
-## Papers on machine learning for proteins
+## 단백질 머신러닝 관련 논문
 
-### Background
+### 배경
 
-We recently released a [review](https://arxiv.org/abs/1811.10775) of machine learning methods in protein engineering, but the field changes so fast and there are so many new papers that any static document will inevitably be missing important work. This format also allows us to broaden the scope beyond engineering-specific applications. We hope that this will be a useful resource for people interested in the field.
+저희는 최근 단백질 공학의 머신러닝 기법에 대한 [리뷰](https://arxiv.org/abs/1811.10775)를 발표했습니다. 하지만 이 분야는 매우 빠르게 변하고 새로운 논문이 많아 정적인 문서에는 중요한 연구가 누락될 수밖에 없습니다. 이 형식은 공학 특정 응용 분야를 넘어 범위를 넓힐 수 있게 합니다. 저희는 이 자료가 해당 분야에 관심 있는 분들에게 유용한 정보가 되기를 바랍니다.
 
-To the best of our knowledge, this is the first public, collaborative list of machine learning papers on protein applications. We try to classify papers based on a combination of their applications and model type. If you have suggestions for other papers or categories, please make a pull request or issue!
+저희가 아는 한, 이것은 단백질 응용 분야에 대한 머신러닝 논문을 공개적으로 협력하여 만든 최초의 목록입니다. 저희는 논문을 응용 분야와 모델 유형을 조합하여 분류합니다. 다른 논문이나 카테고리에 대한 제안이 있다면 풀 리퀘스트(pull request)를 보내거나 이슈(issue)를 등록해 주세요.
 
-### Format
+### 형식
 
-Within each category, papers are listed in reverse chronological order (newest first). Where possible, a link should be provided.
+각 카테고리 내에서 논문은 최신순으로 나열됩니다. 가능한 경우 링크를 함께 제공합니다.
 
 ### Categories
 
